@@ -30,26 +30,12 @@ This project is a college assignment aimed at developing a Python application ut
 1. **Run the application:**
 
     ```bash
-    python main.py
+    flet run MVC-project
     ```
 
 2. **Navigate the interface:** Follow the on-screen instructions to interact with the application.
 
 ## Project Structure
-
-MVC-project/
-├── model/
-│ ├── init.py
-│ ├── model.py
-├── view/
-│ ├── init.py
-│ ├── view.py
-├── controller/
-│ ├── init.py
-│ ├── controller.py
-├── main.py
-├── requirements.txt
-└── README.md
 
 -   **model/**: Contains the data and business logic.
 -   **view/**: Handles the presentation layer and user interface.
